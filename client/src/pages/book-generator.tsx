@@ -207,10 +207,10 @@ export default function BookGenerator() {
                 Automated Book Generation
               </h3>
               <p className="text-sm text-blue-800 dark:text-blue-200">
-                Our AI will automatically create a professional 40,000-word book with:
+                Our AI will automatically create a professional roughly, 300 page book with:
               </p>
               <ul className="text-sm text-blue-800 dark:text-blue-200 mt-2 space-y-1">
-                <li>• 8 chapters with 3 sections each</li>
+                <li>• 21 chapters with 8 sections each</li>
                 <li>• Research-backed content with realistic case studies</li>
                 <li>• Professional writing style with expert credentials</li>
                 <li>• Legal disclaimers and best-seller positioning</li>
