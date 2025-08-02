@@ -2,6 +2,8 @@
 
 A comprehensive AI-powered platform that transforms detailed JSON specifications into complete, publication-ready non-fiction books through an automated 8-step workflow. The system uses AI (DeepSeek or Claude Sonnet 4) for content generation and GitHub for version control.
 
+![App Screenshot](app_screenshot.png)
+
 ## Features
 
 - **8-Step Automated Workflow**: From JSON input to complete book with front matter
@@ -276,4 +278,4 @@ For issues or questions:
 
 ## License
 
-[Add your license information here]
+MIT
