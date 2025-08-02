@@ -276,4 +276,4 @@ For issues or questions:
 
 ## License
 
-[Add your license information here]
+MIT
