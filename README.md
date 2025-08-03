@@ -13,7 +13,7 @@ A comprehensive AI-powered platform that transforms detailed JSON specifications
 - **Professional Output**: Generates preface, introduction, table of contents, and structured content
 - **PostgreSQL Database**: Comprehensive tracking and audit trails
 
-## Local Setup on Ubuntu (Beelink MiniPC)
+## Local Setup on Ubuntu
 
 ### Prerequisites
 
